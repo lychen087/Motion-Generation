@@ -1,0 +1,9 @@
+.venv
+/sample_data
+
+*.pkl
+*.png
+
+train_old.py
+
+motion_generation_transformer
